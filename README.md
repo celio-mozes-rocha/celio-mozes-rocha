@@ -12,9 +12,9 @@ Développement d'un moteur d'échecs complet avec une interface utilisateur réa
 - [Voir le dépôt](https://github.com/celio-mozes-rocha/ChessLite)
 
 ### Planetarium
-Application de visualisation cartographique avancée.
+Application de visualisation animée du ciel.
 - **Spécificité :** Implémentation d'une **projection graphique personnalisée** via **HTML5 Canvas** pour des performances optimales et un rendu unique.
-- **Technos :** React, Canvas API, Projections Graphiques, OpenStreetMap
+- **Technos :** React, Canvas API, Projections Graphiques des objets célestes (etoiles, constellations, lune, soleil, ...), OpenStreetMap (choix de locatisation d'observation)
 - [Voir le dépôt](https://github.com/celio-mozes-rocha/planetarium-2D)
 
 ### App Météo Android
