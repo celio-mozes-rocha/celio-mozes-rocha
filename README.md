@@ -40,15 +40,20 @@ Application native Android pour consulter les prévisions météorologiques en t
 - [Voir le dépôt](https://github.com/celio-mozes-rocha/AppMeteo)
 
 
-## Statistiques GitHub
+## 📊 Statistiques & Langages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celio-mozes-rocha&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <!-- Stats Générales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=celio-mozes-rocha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=celio-mozes-rocha&theme=radical&hide_border=true" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-top-languages.vercel.app/?username=celio-mozes-rocha&theme=radical&hide_border=true" alt="Langages" />
+  
+  <!-- Top Langages (Style Badges) -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celio-mozes-rocha&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages" />
+  
+  <!-- Badges Techniques (Optionnel : pour ajouter des outils spécifiques que GitHub ne détecte pas toujours) -->
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,android,kotlin,js,html,css,git,github,canvas,graphql,typeorm,vscode,linux&perline=8" alt="Outils" />
 </div>
 
 ---
