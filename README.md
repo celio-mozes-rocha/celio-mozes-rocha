@@ -11,7 +11,7 @@ Développement d'un moteur d'échecs complet avec une interface utilisateur réa
 - **Technos :** React, Logique de jeu, UI Interactive
 - [Voir le dépôt](https://github.com/celio-mozes-rocha/ChessLite)
 
-### **Planetarium** <img src="https://img.shields.io/badge/Canvas_API-F59E0B?style=flat-square&logo=html5&logoColor=white" height="20" alt="Canvas" />
+### Planetarium
 Application de visualisation animée du ciel.
 - **Architecture Hybride :** 
   - **Leaflet (OSM)** : Gestion de la carte terrain et géolocalisation (sélection de position via clic ou recherche Nominatim).
