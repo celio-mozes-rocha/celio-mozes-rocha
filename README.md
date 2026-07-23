@@ -13,8 +13,10 @@ Développement d'un moteur d'échecs complet avec une interface utilisateur réa
 
 ### Planetarium
 Application de visualisation animée du ciel.
-- **Spécificité :** Implémentation d'une **projection graphique personnalisée** via **HTML5 Canvas** pour des performances optimales et un rendu unique.
-- **Technos :** React, Canvas API, Projections Graphiques des objets célestes (etoiles, constellations, lune, soleil, ...), OpenStreetMap (choix de locatisation d'observation)
+- **Architecture Hybride :** 
+  - **Leaflet (OSM)** : Gestion de la carte terrain et géolocalisation (sélection de position via clic ou recherche Nominatim).
+  - **HTML5 Canvas** : Rendu haute performance des objets célestes (étoiles, constellations, trajectoires) avec une projection graphique personnalisée.
+- **Technos :** React, Canvas API, Leaflet, OpenStreetMap, Nominatim API
 - [Voir le dépôt](https://github.com/celio-mozes-rocha/planetarium-2D)
 
 ### App Météo Android
