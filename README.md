@@ -33,7 +33,7 @@ Application native Android pour consulter les prévisions météorologiques en t
   
   <!-- Top Langages -->
   <br/>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celio-mozes-rocha&theme=radical" alt="Langages" />
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celio-mozes-rocha&theme=radical" alt="Langages" />-->
   
   <!-- Badges Techniques (Skillicons) -->
   <br/>
