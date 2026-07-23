@@ -38,7 +38,7 @@ Application native Android pour consulter les prévisions météorologiques en t
   
   <!-- Badges Techniques (Skillicons) -->
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,android,kotlin,js,html,css,git,github,canvas,graphql,typeorm,vscode,linux,osm&perline=8" alt="Outils" />
+  <img src="https://skillicons.dev/icons?i=react,android,kotlin,ts,js,html,css,git,github,docker,canvas,graphql,typeorm,vscode,linux,osm&perline=8" alt="Outils" />
 </div>
 
 ---
