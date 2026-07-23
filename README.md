@@ -30,11 +30,10 @@ Application native Android pour consulter les prévisions météorologiques en t
 <div align="center">
   <!-- Statistiques Générales -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=celio-mozes-rocha&theme=radical&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celio-mozes-rocha&theme=radical&hide_border=true" alt="Streak" />
   
   <!-- Top Langages -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celio-mozes-rocha&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Langages" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celio-mozes-rocha&theme=radical" alt="Langages" />
   
   <!-- Badges Techniques (Skillicons) -->
   <br/>
