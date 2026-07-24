@@ -47,6 +47,7 @@ Application native Android pour consulter les prévisions météorologiques en t
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" /></a>
   <!-- HTML & CSS -->
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" /></a>
   <!-- Testing -->
   <a href="https://jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" style="margin-right: 10px;" /></a>
@@ -65,6 +66,10 @@ Application native Android pour consulter les prévisions météorologiques en t
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://typeorm.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="TypeORM (Node)" width="40" height="40" style="margin-right: 10px;" title="TypeORM" /></a>
+
+  <!-- Design & Outils de conception -->
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;" /></a>
+  <a href="https://app.diagrams.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drawio/drawio-original.svg" alt="Draw.io" width="40" height="40" style="margin-right: 10px;" /></a>
 </div>
 
 ---
