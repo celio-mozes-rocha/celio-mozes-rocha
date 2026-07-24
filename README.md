@@ -37,6 +37,9 @@ Application native Android pour consulter les prévisions météorologiques en t
 ## Statistiques & Technologies
 
 <div align="left">
+
+   <!-- Statistiques Générales -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celio-mozes-rocha&theme=radical&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="Streak" />
   <!-- React & JS -->
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" /></a>
