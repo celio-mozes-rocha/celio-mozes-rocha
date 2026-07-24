@@ -63,8 +63,6 @@ Application native Android pour consulter les prévisions météorologiques en t
   <a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Canvas" width="40" height="40" style="margin-right: 10px;" title="HTML5 Canvas API" /></a>
-  <!-- Cartographie (Leaflet - Stable) -->
-  <a href="https://leafletjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leaflet/leaflet-original.svg" alt="Leaflet" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://typeorm.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="TypeORM (Node)" width="40" height="40" style="margin-right: 10px;" title="TypeORM" /></a>
 </div>
