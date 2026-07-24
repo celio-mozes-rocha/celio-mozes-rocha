@@ -69,7 +69,7 @@ Application native Android pour consulter les prévisions météorologiques en t
 
   <!-- Design & Outils de conception -->
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin-right: 10px;" /></a>
-  <a href="https://app.diagrams.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drawio/drawio-original.svg" alt="Draw.io" width="40" height="40" style="margin-right: 10px;" /></a>
+  <a href="https://app.diagrams.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mermaid/mermaid-original.svg" alt="Draw.io (Mermaid)" width="40" height="40" style="margin-right: 10px;" title="Draw.io / Diagrams" /></a>
 </div>
 
 ---
