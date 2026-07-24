@@ -15,7 +15,7 @@ Développement d'un moteur d'échecs complet avec une interface utilisateur réa
 Application de visualisation animée du ciel.
 - **Architecture Hybride :** 
   - **Leaflet (OSM)** : Gestion de la carte terrain et géolocalisation (sélection de position via clic ou recherche Nominatim).
-  - **HTML5 Canvas** : Rendu haute performance des objets célestes (étoiles, constellations, trajectoires) avec une projection graphique personnalisée.
+  - **HTML5 Canvas** : Rendu efficace des objets célestes (étoiles, constellations, trajectoires) avec une projection graphique personnalisée.
 - **Technos :** React, Canvas API, Leaflet, OpenStreetMap, Nominatim API
 - [Voir le dépôt](https://github.com/celio-mozes-rocha/planetarium-2D)
 
