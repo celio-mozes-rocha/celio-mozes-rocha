@@ -35,6 +35,11 @@ Application native Android pour consulter les prévisions météorologiques en t
 ## Statistiques & Technologies
 
 <div align="center">
+ <div align="right">
+ <!-- Profil Views -->
+  <!-- Profil Views (Service stable Komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=celio-mozes-rocha&label=Profile%20Views&color=0e75b6&style=flat" alt="celio-mozes-rocha" />
+</div>
   <!-- Statistiques Générales -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=celio-mozes-rocha&theme=radical&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="Streak" />
   
