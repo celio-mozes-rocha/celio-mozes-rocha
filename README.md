@@ -4,8 +4,8 @@
 Développeur **React** et **Android** passionné par le rendu graphique performant, la logique complexe et les applications mobiles natives.
 <div align="right">
  <!-- Profil Views -->
-<img src="https://ghp.pro/u/celio-mozes-rocha.svg" alt="Profile Views" />
-</div>
+  <!-- Profil Views (Service stable Komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=celio-mozes-rocha&label=Profile%20Views&color=0e75b6&style=flat" alt="celio-mozes-rocha" />
 
 ---
 
