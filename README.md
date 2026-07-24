@@ -1,11 +1,13 @@
-
-# Bonjour, je suis Celio Mozes Rocha !
-
-Développeur **React** et **Android** passionné par le rendu graphique performant, la logique complexe et les applications mobiles natives.
 <div align="right">
  <!-- Profil Views -->
   <img src="https://komarev.com/ghpvc/?username=celio-mozes-rocha&label=Profile%20Views&color=0e75b6&style=flat" alt="celio-mozes-rocha" />
 </div>
+
+
+# Bonjour, je suis Celio Mozes Rocha !
+
+Développeur **React** et **Android** passionné par le rendu graphique performant, la logique complexe et les applications mobiles natives.
+
 
 ---
 
