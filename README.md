@@ -4,7 +4,7 @@
 Développeur **React** et **Android** passionné par le rendu graphique performant, la logique complexe et les applications mobiles natives.
 <div align="right">
  <!-- Profil Views -->
-<img src="https://profile-counter.glitch.me/celio-mozes-rocha/count.svg" alt="Profile Views" style="margin-top: 10px;" />
+<img src="https://ghp.pro/u/celio-mozes-rocha.svg" alt="Profile Views" />
 </div>
 
 ---
