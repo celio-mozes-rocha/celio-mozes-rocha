@@ -6,7 +6,7 @@ Développeur **React** et **Android** passionné par le rendu graphique performa
  <!-- Profil Views -->
   <!-- Profil Views (Service stable Komarev) -->
   <img src="https://komarev.com/ghpvc/?username=celio-mozes-rocha&label=Profile%20Views&color=0e75b6&style=flat" alt="celio-mozes-rocha" />
-
+</div>
 ---
 
 ## Projets en cours
