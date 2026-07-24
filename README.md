@@ -1,6 +1,6 @@
  <!-- Profil Views -->
 <img src="https://profile-counter.glitch.me/celio-mozes-rocha/count.svg" alt="Profile Views" style="margin-top: 10px;" />
-# Bonjour, je suis Celio Mozes Rocha !
+## Bonjour, je suis Celio Mozes Rocha !
 
 Développeur **React** et **Android** passionné par le rendu graphique performant, la logique complexe et les applications mobiles natives.
 
