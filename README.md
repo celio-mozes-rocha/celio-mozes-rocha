@@ -34,7 +34,7 @@ Application native Android pour consulter les prévisions météorologiques en t
 
 ---
 
-## Statistiques & Technologies
+## Statistiques, Langages & Technologies
 
 <div align="left">
 
